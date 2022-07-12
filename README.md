@@ -2,7 +2,7 @@
 
 ## Uses :
 
- > const { server,router } = require( 'server' );
+ > const { startServer,router } = require( 'server' );
 
 
  > router needs list of handlers 
